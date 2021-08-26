@@ -152,7 +152,7 @@ table {
 
 
 <table>
-	<CAPTION>Table.1 The comparision between the CycleGEAN and other models on VCC2SM3-VCC2TF1</CAPTION>
+	<CAPTION>Table.3 The comparision between the CycleGEAN and other models on VCC2SM3-VCC2TF1</CAPTION>
     <tr>
         <th> ID </th>
 		<th> Ground Truth</th>
@@ -192,7 +192,7 @@ table {
 
 
 <table>
-	<CAPTION>Table.1 The comparision between the CycleGEAN and other models on VCC2SM3-VCC2TM1</CAPTION>
+	<CAPTION>Table.4 The comparision between the CycleGEAN and other models on VCC2SM3-VCC2TM1</CAPTION>
     <tr>
         <th> ID </th>
 		<th> Ground Truth</th>
